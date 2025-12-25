@@ -1,6 +1,6 @@
 # Hi 👋, I'm Valentina Restrepo
 
-### Developer and a passionate for data cience
+### Developer, passionate for Data Science and Automation
 # 💫 About Me:
 
 I am a developer with a strong passion for data science, data analysis, and building technological solutions that create real impact. I consider myself a curious, analytical person who is deeply committed to continuous learning, always exploring new tools, technologies, and approaches to improve my skills.<br>
